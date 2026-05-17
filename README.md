@@ -1,15 +1,38 @@
-## Gustavo Oliveira
-<!--
-**gsantosPerson/gsantosPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gustavo Santos Oliveira
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me chamo **Gustavo Santos Oliveira**, tenho **21 anos** e atualmente curso **Bacharelado em Ciência da Computação** no **Instituto Federal Goiano - Campus Iporá**.
+
+Gosto de atuar com tecnologia, programação e resolução de problemas. Atualmente venho aprofundando meus estudos em:
+
+- Linguagem C
+- Estruturas de Dados
+- Sistemas Digitais
+- Banco de Dados
+- Programação Orientada a Objetos
+- Desenvolvimento de Software
+
+---
+
+## Objetivos
+
+Busco evoluir constantemente como desenvolvedor, fortalecendo minha base teórica e prática para construir soluções eficientes e me tornar um excelente profissional da área de tecnologia.
+
+---
+
+##Tecnologias e estudos atuais
+
+- C
+- Java
+- Git e GitHub
+- SQL
+- Algoritmos e Estruturas de Dados
+
+---
+
+##Contato
+
+- GitHub: [@gsantosPerson](https://github.com/gsantosPerson)
+
+---
